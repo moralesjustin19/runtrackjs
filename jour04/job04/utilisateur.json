@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nom": "Heureux",
+        "prenom": "Axel",
+        "email": "axel.heureux@laplateforme.io"
+    },
+    {
+        "id": 2,
+        "nom": "Sorrentino",
+        "prenom": "Gianni",
+        "email": "gianni@laplateforme.io"
+    },
+    {
+        "id": 3,
+        "nom": "Mogrovejo",
+        "prenom": "Justin",
+        "email": "justin.mogrovejo@laplateforme.io"
+    }
+]
